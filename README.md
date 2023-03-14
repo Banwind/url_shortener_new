@@ -23,3 +23,4 @@ http://localhost:3000/
 - "express-handlebars": "^4.0.2",
 - "method-override": "^3.0.0",
 - "mongoose": "^5.9.7"
+- "dotenv": "^16.0.3"
